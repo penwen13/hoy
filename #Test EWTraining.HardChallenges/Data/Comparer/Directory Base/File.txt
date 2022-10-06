@@ -1,0 +1,11 @@
+Base Line 1
+Equal Line 3 (only 2)
+Equal Line 4 (only 2)
+Base Line 4
+Base Line 5
+Equal Line 5 (OK 3)
+Equal Line 6 (OK 3)
+Equal Line 7 (OK 3)
+Equal Line 8 (only 1)
+Base Line 10
+Equal Line 9 (only 1)

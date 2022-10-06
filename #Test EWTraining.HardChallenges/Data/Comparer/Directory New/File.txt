@@ -1,0 +1,9 @@
+New Line 1
+New Line 2
+Equal Line 3 (only 2)
+Equal Line 4 (only 2)
+Equal Line 5 (OK 3)
+Equal Line 6 (OK 3)
+Equal Line 7 (OK 3)
+New Line 8
+Equal Line 9 (only 1)
